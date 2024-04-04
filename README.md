@@ -1,5 +1,5 @@
 # Perforce Discord Submit logger 📫
-A simple python program to use with perforce triggers that will notify a provided discord channel when changes have been submitted to a perforce repository.
+A simple python program to use with perforce triggers that will notify a provided discord channel when changes have been submitted to a perforce repository. Forked from https://github.com/TibRib/Perforce-discord-botlogger
 
 <img src="assets/example.png" style="max-width: 500px">
 
